@@ -5,4 +5,4 @@
 cd ../submission_reminder_app/app
 
 # Run the reminder script
-bash reminder.sh 
+./reminder.sh 
